@@ -1,3 +1,4 @@
+папка reports - ЗВІТИ
 # Project Overview
 
 This project consists of several subapplications, each fulfilling specific functionalities like generating ASCII art, handling calculators, running tests, interacting with APIs, and visualizing data.
