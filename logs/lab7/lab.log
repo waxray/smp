@@ -1,0 +1,845 @@
+2024-11-08 23:57:40,156 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-08 23:57:40,906 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-08 23:57:40,991 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-08 23:57:41,724 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:07,826 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:08,363 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:08,425 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:08,980 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:12,152 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:12,668 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:12,759 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:13,439 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:35,611 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:36,358 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Help&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:00:36,430 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:00:37,156 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Help&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:02:18,579 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:02:19,114 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Help&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:02:19,117 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:02:19,122 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:02:19,124 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 68, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:02:19,127 - labs.lab7.ui.UserInterface - ERROR - 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:04:30,226 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:04:30,773 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Help&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:04:30,782 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:04:30,794 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:04:30,808 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 68, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:04:35,662 - labs.lab7.ui.UserInterface - ERROR - 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:05:32,382 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:05:32,900 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Help&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:05:32,911 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:05:32,922 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:05:32,937 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 68, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:05:32,951 - labs.lab7.ui.UserInterface - ERROR - 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:07:08,224 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:07:08,753 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:08:25,366 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:08:25,850 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:11:13,124 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:11:13,746 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:11:13,755 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:13:01,965 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:13:02,629 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:13:21,054 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:13:21,891 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:14:42,245 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:14:42,745 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:16:39,049 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:16:39,053 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:16:39,056 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 68, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:16:39,058 - labs.lab7.ui.UserInterface - ERROR - 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:16:48,589 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:16:49,092 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:20:00,279 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:20:00,291 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:20:00,305 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 107, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 118, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 138, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 48, in parse_query
+    is_wrapped = hasattr(data, "items") and field.startswith("items.")
+                                            ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 68, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 89, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 115, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:20:00,322 - labs.lab7.ui.UserInterface - ERROR - 'NoneType' object has no attribute 'startswith'
+2024-11-09 00:20:32,272 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:20:32,870 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:20:54,510 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:20:55,014 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:20:58,574 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:20:59,081 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:21:13,302 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:21:14,221 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Yappy&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:21:16,446 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:21:17,133 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Yappy&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:21:17,198 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:21:17,680 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Yappy&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:21:17,709 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:21:18,199 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Yappy&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:20,790 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:21,418 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:21,491 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:22,063 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:36,880 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:37,380 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:37,385 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:37,973 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:37,978 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:38,562 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=80&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:38,567 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:39,191 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=120&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:39,196 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:39,793 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=160&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:39,798 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:40,375 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=200&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:40,380 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:40,927 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=240&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:40,932 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:41,527 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=280&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:41,532 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:42,083 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=320&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:42,089 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:42,963 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=360&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:42,968 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:43,608 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=400&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:43,613 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:44,669 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=440&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:44,675 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:46,467 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=480&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:46,473 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:47,167 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=520&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:47,177 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:47,899 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=560&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:47,905 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:48,549 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=600&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:48,554 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:23:49,136 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=640&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:23:49,139 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 109, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 120, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 142, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 52, in parse_query
+    data = data["items"]
+           ~~~~^^^^^^^^^
+KeyError: 'items'
+2024-11-09 00:23:49,141 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 109, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 120, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 142, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 52, in parse_query
+    data = data["items"]
+           ~~~~^^^^^^^^^
+KeyError: 'items'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 117, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'items'
+2024-11-09 00:23:49,142 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 109, in _fetch_additional_results
+    temp_result = self._apply_regex_if_needed(temp_result)
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 120, in _apply_regex_if_needed
+    return self.do_regex(data) if self.last_regex and self.regex_field_name else data
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 142, in do_regex
+    return self.parse_query(data, field, self.last_regex)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 52, in parse_query
+    data = data["items"]
+           ~~~~^^^^^^^^^
+KeyError: 'items'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 70, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 117, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'items'
+2024-11-09 00:23:49,144 - labs.lab7.ui.UserInterface - ERROR - 'items'
+2024-11-09 00:24:40,999 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:24:41,593 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:27:39,166 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:27:39,679 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:29:04,817 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:29:05,393 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:29:05,395 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+2024-11-09 00:29:05,398 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 121, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'list' object has no attribute 'empty'
+2024-11-09 00:29:05,401 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 70, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 121, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'list' object has no attribute 'empty'
+2024-11-09 00:29:05,404 - labs.lab7.ui.UserInterface - ERROR - 'list' object has no attribute 'empty'
+2024-11-09 00:29:32,691 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:29:33,204 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:29:33,205 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+2024-11-09 00:29:33,208 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 121, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'list' object has no attribute 'empty'
+2024-11-09 00:29:33,210 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 111, in _fetch_additional_results
+    if temp_result['items'].empty():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'empty'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 70, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 91, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 121, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: 'list' object has no attribute 'empty'
+2024-11-09 00:29:33,213 - labs.lab7.ui.UserInterface - ERROR - 'list' object has no attribute 'empty'
+2024-11-09 00:29:48,605 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:29:49,111 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:31:01,638 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:31:02,168 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:36:19,476 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:36:19,985 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:36:27,387 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:36:27,957 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:37:19,823 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:37:20,317 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:37:20,385 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:37:20,884 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:05,036 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:05,531 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:05,579 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:06,109 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:20,522 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:21,025 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:21,104 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:21,600 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:42,570 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:43,080 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:43,121 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:43,663 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:38:52,353 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:38:52,885 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:40:39,865 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:40:40,372 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:41:08,690 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:41:09,225 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:41:09,273 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:41:09,822 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:41:25,977 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:41:26,478 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:42:09,204 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:42:09,935 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:44:19,673 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:44:20,217 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:44:24,107 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:44:24,659 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:44:55,206 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:44:55,737 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:44:55,790 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:44:56,373 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:45:06,026 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:45:06,670 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:45:13,536 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:45:14,032 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:45:24,577 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:45:25,098 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:46:19,596 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:46:20,080 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:46:20,145 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:46:20,641 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:48:01,787 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:48:02,290 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:48:02,433 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:48:02,932 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:49:26,038 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:49:26,567 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:49:26,632 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:49:27,135 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:49:44,764 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:49:45,264 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:49:45,331 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:49:45,836 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:52:41,269 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:52:41,784 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:52:41,847 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:52:42,344 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:53:57,077 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:53:57,648 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:53:57,714 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:53:58,188 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:54:16,887 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:54:17,395 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:54:17,454 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:54:17,935 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.authors&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:54:48,855 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:54:49,358 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:54:49,414 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:54:49,881 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:55:48,670 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:55:49,177 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:55:49,226 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:55:49,704 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:56:12,390 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:56:12,908 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 00:56:12,944 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 00:56:13,459 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:00:39,789 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:00:40,311 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:00:40,343 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:00:40,816 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.subtitle&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:01:31,940 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:01:32,427 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:01:32,450 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:01:32,992 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:06,763 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:07,266 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:07,353 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:07,932 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:32,864 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:33,338 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:33,424 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:33,953 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:43,068 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:43,590 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:03:43,663 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:03:44,156 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:04:39,303 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:04:39,871 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:06:35,901 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:06:36,561 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:08:49,000 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:08:49,465 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:08:57,910 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:08:58,423 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:13:36,996 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:13:37,509 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:13:39,121 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:13:39,607 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:13:55,631 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:13:56,169 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:13:56,243 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:13:56,723 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Testing&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:15:26,020 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:15:26,790 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:15:26,826 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:15:27,512 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:16:15,250 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:16:15,828 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:16:15,834 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:16:16,455 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:16:16,498 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:16:17,012 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:16:17,026 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-11-09 01:16:17,528 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /books/v1/volumes?q=Python&langRestrict=en&startIndex=40&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.imageLinks.thumbnail%2Citems.volumeInfo.description%2Citems.volumeInfo.subtitle%2Citems.volumeInfo.averageRating%2Citems.volumeInfo.ratingsCount%2Citems.volumeInfo.previewLink%2Citems.volumeInfo.authors%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw HTTP/11" 200 None
+2024-11-09 01:59:30,684 - OpenGL.acceleratesupport - INFO - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2024-11-09 01:59:31,403 - OpenGL.GLUT.special - INFO - Using NT-specific GLUT calls with exit callbacks
+2024-11-20 13:28:06,732 - labs.lab7.bll.GoogleBooksAPI - ERROR - 400 Client Error: Bad Request for url: https://www.googleapis.com/books/v1/volumes?q=Python&langRestrict=en&startIndex=0&maxResults=40&fields=items.volumeInfo.title%2Citems.volumeInfo.authors%2Citems.volumeInfo.printType%2Citems.volumeInfo.categories%2Citems.volumeInfo.publishedDate&key=AIzaSyCy8ZbR3Kqbs_mCWcu7VnKqjhZKgWQEydw
+2024-11-20 13:28:06,735 - labs.lab7.bll.Controller - ERROR - Get non-HTTP error
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 240, in _fetch_additional_results
+    temp_result, url = self.api.search(
+    ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+2024-11-20 13:28:06,738 - labs.lab7.bll.Controller - ERROR - Get error in general search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 240, in _fetch_additional_results
+    temp_result, url = self.api.search(
+    ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 217, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 253, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: not enough values to unpack (expected 2, got 1)
+2024-11-20 13:28:06,741 - labs.lab7.bll.Controller - ERROR - Get error in table search!
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 240, in _fetch_additional_results
+    temp_result, url = self.api.search(
+    ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 194, in _search_generic
+    return self.search(fields), fields
+           ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 217, in search
+    response, total_items = self._fetch_additional_results(
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query, lang, start_index, max_results, fields, is_total_items
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\oleg0\Desktop\Спеціалізовані МП\labs\src\labs\lab7\bll\Controller.py", line 253, in _fetch_additional_results
+    raise Exception(str(e)) from e
+Exception: not enough values to unpack (expected 2, got 1)
+2024-11-20 13:28:06,745 - labs.lab7.ui.UserInterface - ERROR - not enough values to unpack (expected 2, got 1)

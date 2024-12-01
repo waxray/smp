@@ -1,0 +1,5 @@
+
+2024-11-13 11:52:49,768 - OpenGL.acceleratesupport - INFO - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2024-11-13 11:52:51,570 - OpenGL.GLUT.special - INFO - Using NT-specific GLUT calls with exit callbacks
+2024-11-21 00:03:50,686 - OpenGL.acceleratesupport - INFO - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2024-11-21 00:03:51,352 - OpenGL.GLUT.special - INFO - Using NT-specific GLUT calls with exit callbacks
